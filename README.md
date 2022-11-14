@@ -12,3 +12,5 @@ to get `out.png` with heatmap where
 
 - less red means it was something like 15:30 to 16:20 which spans 2 wall clock hours 
 
+![](/out.png)
+
